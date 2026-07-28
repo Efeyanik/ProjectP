@@ -30,7 +30,7 @@ This project is an action prototype developed to grasp the core mechanics, game 
 ## 🛠️ Under the Hood (Blueprints & Systems)
 
 <p align="center">
-  <img src="Images/BP_Player" width="32%">
+  <img src="Images/BP_Player.png" width="32%">
   <img src="Images/BT_Enemy.png" width="32%">
   <img src="Images/WB_Settings.png" width="32%">
 </p>
