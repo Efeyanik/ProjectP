@@ -5,15 +5,15 @@ This project is an action prototype developed to grasp the core mechanics, game 
 ## 📸 Gameplay & Interface
 
 <p align="center">
-  <img src="MainMenu.png" width="48%">
-  <img src="SS.png" width="48%">
+  <img src="Images/MainMenu.png" width="48%">
+  <img src="Images/SS.png" width="48%">
 </p>
 <p align="center">
-  <img src="ULT.png" width="48%">
-  <img src="EnemyAttack.png" width="48%">
+  <img src="Images/ULT.png" width="48%">
+  <img src="Images/EnemyAttack.png" width="48%">
 </p>
 <p align="center">
-  <img src="PerfectDodge.png" width="48%">
+  <img src="Images/PerfectDodge.png" width="48%">
 </p>
 
 ## ⚙️ Technical Features & Implemented Systems
@@ -30,9 +30,9 @@ This project is an action prototype developed to grasp the core mechanics, game 
 ## 🛠️ Under the Hood (Blueprints & Systems)
 
 <p align="center">
-  <img src="BP_Player" width="32%">
-  <img src="BT_Enemy.png" width="32%">
-  <img src="WB_Settings.png" width="32%">
+  <img src="Images/BP_Player" width="32%">
+  <img src="Images/BT_Enemy.png" width="32%">
+  <img src="Images/WB_Settings.png" width="32%">
 </p>
 
 ---
