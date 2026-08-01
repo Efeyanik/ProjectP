@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/75cb0b8e-c9a0-45b0-9e32-ef8e240316b2
-
 # ProjectP - Unreal Engine Action Prototype
 
 This project is an action prototype developed to grasp the core mechanics, game programming logic, and system architecture of Unreal Engine 5. Rather than focusing on visual assets, the primary focus is entirely on software architecture, modular AI, and combat mechanics.
