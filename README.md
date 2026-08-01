@@ -13,7 +13,20 @@ This project is an action prototype developed to grasp the core mechanics, game 
   <img src="Images/EnemyAttack.png" width="48%">
 </p>
 <p align="center">
-  <img src="Images/PerfectDodge.png" width="48%">
+  <img src="Images/SS1.png" width="48%">
+  <img src="Images/SS2.png" width="48%">
+</p>
+
+## 🎥 Trailers & Gameplay
+
+<p align="center">
+  <!-- Local Atmospheric Trailer -->
+  <video src="Images/Trailer1.mp4" width="48%" controls></video>
+  
+  <!-- YouTube Gameplay Video -->
+  <a href="https://www.youtube.com/watch?v=OazgeyzVvZw" target="_blank">
+    <img src="https://img.youtube.com/vi/OazgeyzVvZw/maxresdefault.jpg" width="48%" alt="Gameplay Video">
+  </a>
 </p>
 
 ## ⚙️ Technical Features & Implemented Systems
