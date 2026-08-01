@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/75cb0b8e-c9a0-45b0-9e32-ef8e240316b2
+
 # ProjectP - Unreal Engine Action Prototype
 
 This project is an action prototype developed to grasp the core mechanics, game programming logic, and system architecture of Unreal Engine 5. Rather than focusing on visual assets, the primary focus is entirely on software architecture, modular AI, and combat mechanics.
@@ -21,7 +25,7 @@ This project is an action prototype developed to grasp the core mechanics, game 
 
 <p align="center">
   <!-- Local Atmospheric Trailer -->
-  <video src="Images/Trailer1.mp4" width="48%" controls></video>
+  <video src="https://github.com/user-attachments/assets/75cb0b8e-c9a0-45b0-9e32-ef8e240316b2" width="48%" controls></video>
   
   <!-- YouTube Gameplay Video -->
   <a href="https://www.youtube.com/watch?v=OazgeyzVvZw" target="_blank">
