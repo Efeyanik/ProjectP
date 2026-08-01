@@ -2,6 +2,20 @@
 
 This project is an action prototype developed to grasp the core mechanics, game programming logic, and system architecture of Unreal Engine 5. Rather than focusing on visual assets, the primary focus is entirely on software architecture, modular AI, and combat mechanics.
 
+## 📸 Gameplay & Interface
+
+<p align="center">
+  <img src="Images/MainMenu.png" width="48%">
+  <img src="Images/SS.png" width="48%">
+</p>
+<p align="center">
+  <img src="Images/ULT.png" width="48%">
+  <img src="Images/EnemyAttack.png" width="48%">
+</p>
+<p align="center">
+  <img src="Images/PerfectDodge.png" width="48%">
+</p>
+
 ## ⚙️ Technical Features & Implemented Systems
 
 * **Combat and Damage System:** A precise melee combat mechanic driven by Anim Notifies and Line/Sphere Trace logic. Damage calculation and delivery are optimized using Point/Apply Damage functions.
@@ -13,4 +27,13 @@ This project is an action prototype developed to grasp the core mechanics, game 
 
 *(Note: Character and animation models in this project were sourced from Epic Games / Paragon assets to maintain focus on coding and system design.)*
 
+## 🛠️ Under the Hood (Blueprints & Systems)
+
+<p align="center">
+  <img src="Images/BP_Player.png" width="32%">
+  <img src="Images/BT_Enemy.png" width="32%">
+  <img src="Images/WB_Settings.png" width="32%">
+</p>
+
+---
 **Developer:** Efe Yanık (Computer Engineering Student)
