@@ -19,15 +19,18 @@ This project is an action prototype developed to grasp the core mechanics, game 
 
 ## 🎥 Trailers & Gameplay
 
-<p align="center">
-  <!-- Local Atmospheric Trailer -->
-  <video src="https://github.com/user-attachments/assets/75cb0b8e-c9a0-45b0-9e32-ef8e240316b2" width="48%" controls></video>
-  
-  <!-- YouTube Gameplay Video -->
-  <a href="https://www.youtube.com/watch?v=OazgeyzVvZw" target="_blank">
-    <img src="https://img.youtube.com/vi/OazgeyzVvZw/maxresdefault.jpg" width="48%" alt="Gameplay Video">
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <video src="https://github.com/user-attachments/assets/75cb0b8e-c9a0-45b0-9e32-ef8e240316b2" width="100%" controls></video>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://www.youtube.com/watch?v=OazgeyzVvZw" target="_blank">
+        <img src="https://img.youtube.com/vi/OazgeyzVvZw/maxresdefault.jpg" width="100%" alt="Gameplay Video">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## ⚙️ Technical Features & Implemented Systems
 
